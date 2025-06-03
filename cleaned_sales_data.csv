@@ -1,0 +1,928 @@
+date,sales,stock,price,year,month,day_of_week,day_name,revenue,product_name,product_category
+01/01/2014,0,4972,1.29,2014,1,2,Wed,0,Lego Set,Toys
+02/01/2014,70,4902,1.29,2014,1,3,Thu,90.3,Wall Paint,Home & Garden
+03/01/2014,59,4843,1.29,2014,1,4,Fri,76.11,Wiper Blades,Automotive
+04/01/2014,93,4750,1.29,2014,1,5,Sat,119.97,iPhone 14,Electronics
+05/01/2014,96,4654,1.29,2014,1,6,Sun,123.84,Wiper Blades,Automotive
+06/01/2014,145,4509,1.29,2014,1,0,Mon,187.05,Toy Car,Toys
+07/01/2014,179,4329,1.29,2014,1,1,Tue,230.91,Yoga Mat,Sports
+08/01/2014,321,4104,1.29,2014,1,2,Wed,414.09,iPhone 14,Electronics
+09/01/2014,125,4459,1.09,2014,1,3,Thu,136.25,Wall Paint,Home & Garden
+10/01/2014,88,5043,1.09,2014,1,4,Fri,95.92,Sony Headphones,Electronics
+11/01/2014,188,5239,1.09,2014,1,5,Sat,204.92,Garden Shovel,Home & Garden
+12/01/2014,121,5118,1.09,2014,1,6,Sun,131.89,Samsung Galaxy S22,Electronics
+13/01/2014,134,4984,1.09,2014,1,0,Mon,146.06,Basketball,Sports
+14/01/2014,80,4904,1.09,2014,1,1,Tue,87.2,Toy Car,Toys
+15/01/2014,82,4822,1.09,2014,1,2,Wed,89.38,Yoga Mat,Sports
+16/01/2014,94,4728,1.19,2014,1,3,Thu,111.86,Wall Paint,Home & Garden
+18/01/2014,159,4464,1.19,2014,1,5,Sat,189.21,iPhone 14,Electronics
+19/01/2014,199,4265,1.19,2014,1,6,Sun,236.81,Shampoo,Beauty & Health
+20/01/2014,104,4161,1.19,2014,1,0,Mon,123.76,Face Cream,Beauty & Health
+21/01/2014,70,4091,1.19,2014,1,1,Tue,83.3,Organic Milk,Groceries
+22/01/2014,127,3964,1.09,2014,1,2,Wed,138.43,Organic Milk,Groceries
+23/01/2014,96,3868,1.09,2014,1,3,Thu,104.64,Wall Paint,Home & Garden
+24/01/2014,75,3793,1.09,2014,1,4,Fri,81.75,iPhone 14,Electronics
+25/01/2014,198,3595,1.09,2014,1,5,Sat,215.82,Garden Shovel,Home & Garden
+26/01/2014,168,3427,1.09,2014,1,6,Sun,183.12,Organic Milk,Groceries
+27/01/2014,125,3302,1.09,2014,1,0,Mon,136.25,Lego Set,Toys
+28/01/2014,86,3216,1.09,2014,1,1,Tue,93.74,Car Oil,Automotive
+29/01/2014,222,2994,0.99,2014,1,2,Wed,219.78,Garden Shovel,Home & Garden
+30/01/2014,272,2723,0.99,2014,1,3,Thu,269.28,Baby Diapers,Groceries
+31/01/2014,209,2514,0.99,2014,1,4,Fri,206.91,Garden Shovel,Home & Garden
+01/02/2014,369,2145,0.99,2014,2,5,Sat,365.31,Novel Book,Books
+02/02/2014,217,1928,0.99,2014,2,6,Sun,214.83,iPhone 14,Electronics
+03/02/2014,97,1831,0.99,2014,2,0,Mon,96.03,Organic Milk,Groceries
+04/02/2014,117,1714,0.99,2014,2,1,Tue,115.83,Women Jeans,Clothing
+05/02/2014,100,1998,1.29,2014,2,2,Wed,129,Notebook,Office Supplies
+06/02/2014,64,2126,1.29,2014,2,3,Thu,82.56,Women Jeans,Clothing
+07/02/2014,35,2091,1.29,2014,2,4,Fri,45.15,Men T-Shirt,Clothing
+08/02/2014,54,2037,1.29,2014,2,5,Sat,69.66,Shampoo,Beauty & Health
+09/02/2014,55,1982,1.29,2014,2,6,Sun,70.95,Car Oil,Automotive
+12/02/2014,8,7228,1.29,2014,2,2,Wed,10.32,Organic Milk,Groceries
+13/02/2014,43,7185,1.09,2014,2,3,Thu,46.87,Toy Car,Toys
+14/02/2014,107,7078,1.09,2014,2,4,Fri,116.63,Novel Book,Books
+15/02/2014,116,6962,1.09,2014,2,5,Sat,126.44,Sony Headphones,Electronics
+16/02/2014,87,6875,1.09,2014,2,6,Sun,94.83,Car Oil,Automotive
+17/02/2014,66,6809,1.09,2014,2,0,Mon,71.94,Garden Shovel,Home & Garden
+18/02/2014,44,6765,1.09,2014,2,1,Tue,47.96,Novel Book,Books
+19/02/2014,33,6731,1.09,2014,2,2,Wed,35.97,Car Oil,Automotive
+20/02/2014,13,6718,1.09,2014,2,3,Thu,14.17,Samsung Galaxy S22,Electronics
+21/02/2014,53,6665,1.09,2014,2,4,Fri,57.77,Organic Milk,Groceries
+22/02/2014,72,6593,1.09,2014,2,5,Sat,78.48,Car Oil,Automotive
+23/02/2014,50,6543,1.09,2014,2,6,Sun,54.5,Baby Diapers,Groceries
+24/02/2014,15,6528,1.09,2014,2,0,Mon,16.35,Novel Book,Books
+25/02/2014,12,6516,1.09,2014,2,1,Tue,13.08,Women Jeans,Clothing
+26/02/2014,71,6445,1.09,2014,2,2,Wed,77.39,Car Oil,Automotive
+27/02/2014,37,6412,1.09,2014,2,3,Thu,40.33,Women Jeans,Clothing
+28/02/2014,83,6329,1.09,2014,2,4,Fri,90.47,Samsung Galaxy S22,Electronics
+01/03/2014,94,6237,1.09,2014,3,5,Sat,102.46,Women Jeans,Clothing
+02/03/2014,59,6178,1.09,2014,3,6,Sun,64.31,Men T-Shirt,Clothing
+03/03/2014,49,6129,1.09,2014,3,0,Mon,53.41,Car Oil,Automotive
+05/03/2014,65,6012,1.09,2014,3,2,Wed,70.85,Wiper Blades,Automotive
+06/03/2014,55,5957,1.09,2014,3,3,Thu,59.95,HP Laptop,Electronics
+07/03/2014,77,5880,1.09,2014,3,4,Fri,83.93,Novel Book,Books
+08/03/2014,122,5755,1.09,2014,3,5,Sat,132.98,Garden Shovel,Home & Garden
+09/03/2014,83,5672,1.09,2014,3,6,Sun,90.47,HP Laptop,Electronics
+10/03/2014,75,5597,1.09,2014,3,0,Mon,81.75,Shampoo,Beauty & Health
+11/03/2014,48,5549,1.09,2014,3,1,Tue,52.32,Wiper Blades,Automotive
+12/03/2014,45,5504,1.29,2014,3,2,Wed,58.05,Novel Book,Books
+13/03/2014,78,4659,1.29,2014,3,3,Thu,100.62,Toy Car,Toys
+14/03/2014,122,4537,1.29,2014,3,4,Fri,157.38,HP Laptop,Electronics
+16/03/2014,116,4274,1.29,2014,3,6,Sun,149.64,Face Cream,Beauty & Health
+17/03/2014,48,4228,1.29,2014,3,0,Mon,61.92,Car Oil,Automotive
+18/03/2014,29,4199,1.29,2014,3,1,Tue,37.41,Sony Headphones,Electronics
+19/03/2014,91,4107,1.29,2014,3,2,Wed,117.39,Face Cream,Beauty & Health
+20/03/2014,59,4048,1.29,2014,3,3,Thu,76.11,Organic Milk,Groceries
+21/03/2014,68,3980,1.29,2014,3,4,Fri,87.72,iPhone 14,Electronics
+22/03/2014,137,3843,1.28,2014,3,5,Sat,175.36,Lego Set,Toys
+23/03/2014,56,3787,1.29,2014,3,6,Sun,72.24,Notebook,Office Supplies
+24/03/2014,13,3774,1.29,2014,3,0,Mon,16.77,Basketball,Sports
+25/03/2014,45,3729,1.29,2014,3,1,Tue,58.05,Organic Milk,Groceries
+26/03/2014,25,3704,1.29,2014,3,2,Wed,32.25,iPhone 14,Electronics
+27/03/2014,25,3679,1.29,2014,3,3,Thu,32.25,Wall Paint,Home & Garden
+28/03/2014,174,3505,1.19,2014,3,4,Fri,207.06,Organic Milk,Groceries
+29/03/2014,138,3367,1.09,2014,3,5,Sat,150.42,Basketball,Sports
+30/03/2014,64,3303,1.09,2014,3,6,Sun,69.76,Notebook,Office Supplies
+31/03/2014,77,3226,1.09,2014,3,0,Mon,83.93,HP Laptop,Electronics
+01/04/2014,62,3164,1.09,2014,4,1,Tue,67.58,Women Jeans,Clothing
+02/04/2014,119,3045,1.09,2014,4,2,Wed,129.71,Wall Paint,Home & Garden
+03/04/2014,89,2956,1.09,2014,4,3,Thu,97.01,Toy Car,Toys
+04/04/2014,133,2823,1.09,2014,4,4,Fri,144.97,Yoga Mat,Sports
+05/04/2014,180,2643,1.09,2014,4,5,Sat,196.2,Basketball,Sports
+06/04/2014,121,2522,1.09,2014,4,6,Sun,131.89,Wall Paint,Home & Garden
+07/04/2014,72,2450,1.09,2014,4,0,Mon,78.48,Face Cream,Beauty & Health
+08/04/2014,91,2359,1.09,2014,4,1,Tue,99.19,Shampoo,Beauty & Health
+09/04/2014,53,2306,1.09,2014,4,2,Wed,57.77,Samsung Galaxy S22,Electronics
+10/04/2014,47,2259,1.09,2014,4,3,Thu,51.23,Sony Headphones,Electronics
+11/04/2014,42,2217,1.09,2014,4,4,Fri,45.78,Lego Set,Toys
+12/04/2014,124,2092,1.09,2014,4,5,Sat,135.16,Toy Car,Toys
+13/04/2014,97,1995,1.09,2014,4,6,Sun,105.73,Wiper Blades,Automotive
+14/04/2014,119,1875,1.09,2014,4,0,Mon,129.71,Organic Milk,Groceries
+15/04/2014,34,1841,1.29,2014,4,1,Tue,43.86,Lego Set,Toys
+16/04/2014,18,1823,1.29,2014,4,2,Wed,23.22,Car Oil,Automotive
+17/04/2014,24,1799,1.29,2014,4,3,Thu,30.96,Sony Headphones,Electronics
+18/04/2014,57,1742,1.29,2014,4,4,Fri,73.53,Men T-Shirt,Clothing
+19/04/2014,61,1681,1.29,2014,4,5,Sat,78.69,Sony Headphones,Electronics
+20/04/2014,30,1651,1.29,2014,4,6,Sun,38.7,Basketball,Sports
+21/04/2014,96,1554,1.29,2014,4,0,Mon,123.84,Novel Book,Books
+22/04/2014,0,1525,1.29,2014,4,1,Tue,0,Yoga Mat,Sports
+23/04/2014,37,1488,1.29,2014,4,2,Wed,47.73,Sony Headphones,Electronics
+24/04/2014,30,1458,1.29,2014,4,3,Thu,38.7,Wall Paint,Home & Garden
+25/04/2014,38,1420,1.29,2014,4,4,Fri,49.02,Toy Car,Toys
+26/04/2014,88,1332,1.29,2014,4,5,Sat,113.52,Wall Paint,Home & Garden
+27/04/2014,64,1268,1.29,2014,4,6,Sun,82.56,Yoga Mat,Sports
+28/04/2014,13,1255,1.29,2014,4,0,Mon,16.77,Samsung Galaxy S22,Electronics
+29/04/2014,20,1255,1.29,2014,4,1,Tue,25.8,Notebook,Office Supplies
+30/04/2014,31,1457,1.29,2014,4,2,Wed,39.99,Wiper Blades,Automotive
+01/05/2014,129,1263,1.29,2014,5,3,Thu,166.41,Wall Paint,Home & Garden
+02/05/2014,94,1169,1.29,2014,5,4,Fri,121.26,HP Laptop,Electronics
+03/05/2014,129,1904,1.29,2014,5,5,Sat,166.41,Basketball,Sports
+04/05/2014,126,1778,1.29,2014,5,6,Sun,162.54,Basketball,Sports
+05/05/2014,70,1708,1.29,2014,5,0,Mon,90.3,iPhone 14,Electronics
+06/05/2014,48,1708,1.29,2014,5,1,Tue,61.92,Samsung Galaxy S22,Electronics
+07/05/2014,123,2044,1.29,2014,5,2,Wed,158.67,Sony Headphones,Electronics
+08/05/2014,87,1930,1.29,2014,5,3,Thu,112.23,Wiper Blades,Automotive
+09/05/2014,65,1961,1.29,2014,5,4,Fri,83.85,Novel Book,Books
+10/05/2014,102,1859,1.29,2014,5,5,Sat,131.58,Wiper Blades,Automotive
+11/05/2014,78,1781,1.29,2014,5,6,Sun,100.62,iPhone 14,Electronics
+12/05/2014,49,1828,1.29,2014,5,0,Mon,63.21,Wiper Blades,Automotive
+13/05/2014,0,1800,1.29,2014,5,1,Tue,0,Women Jeans,Clothing
+14/05/2014,68,1687,1.09,2014,5,2,Wed,74.12,Yoga Mat,Sports
+15/05/2014,102,1969,1.09,2014,5,3,Thu,111.18,Face Cream,Beauty & Health
+16/05/2014,88,1977,1.09,2014,5,4,Fri,95.92,Wiper Blades,Automotive
+17/05/2014,170,1807,1.09,2014,5,5,Sat,185.3,Yoga Mat,Sports
+18/05/2014,152,1655,1.09,2014,5,6,Sun,165.68,Face Cream,Beauty & Health
+19/05/2014,90,1661,1.09,2014,5,0,Mon,98.1,Men T-Shirt,Clothing
+20/05/2014,101,1751,1.09,2014,5,1,Tue,110.09,Women Jeans,Clothing
+21/05/2014,71,1680,1.43,2014,5,2,Wed,101.53,Novel Book,Books
+22/05/2014,48,2016,1.49,2014,5,3,Thu,71.52,Garden Shovel,Home & Garden
+23/05/2014,40,1976,1.49,2014,5,4,Fri,59.6,Basketball,Sports
+24/05/2014,93,1883,1.49,2014,5,5,Sat,138.57,Wall Paint,Home & Garden
+25/05/2014,45,1838,1.49,2014,5,6,Sun,67.05,Yoga Mat,Sports
+26/05/2014,58,1876,1.49,2014,5,0,Mon,86.42,HP Laptop,Electronics
+27/05/2014,53,1919,1.49,2014,5,1,Tue,78.97,Notebook,Office Supplies
+28/05/2014,42,3317,1.49,2014,5,2,Wed,62.58,Sony Headphones,Electronics
+29/05/2014,52,3841,1.49,2014,5,3,Thu,77.48,Organic Milk,Groceries
+30/05/2014,29,3811,1.99,2014,5,4,Fri,57.71,Sony Headphones,Electronics
+31/05/2014,91,3720,1.99,2014,5,5,Sat,181.09,Organic Milk,Groceries
+01/06/2014,75,3645,1.99,2014,6,6,Sun,149.25,Notebook,Office Supplies
+02/06/2014,75,3570,1.99,2014,6,0,Mon,149.25,Lego Set,Toys
+03/06/2014,179,3391,1.19,2014,6,1,Tue,213.01,Wiper Blades,Automotive
+04/06/2014,252,3140,1.19,2014,6,2,Wed,299.88,Novel Book,Books
+05/06/2014,202,2938,1.19,2014,6,3,Thu,240.38,Organic Milk,Groceries
+06/06/2014,161,2777,1.19,2014,6,4,Fri,191.59,Garden Shovel,Home & Garden
+07/06/2014,331,2446,1.19,2014,6,5,Sat,393.89,Men T-Shirt,Clothing
+08/06/2014,271,2175,1.19,2014,6,6,Sun,322.49,Shampoo,Beauty & Health
+09/06/2014,146,1949,1.19,2014,6,0,Mon,173.74,Men T-Shirt,Clothing
+10/06/2014,2,1946,1.19,2014,6,1,Tue,2.38,Shampoo,Beauty & Health
+11/06/2014,2,2136,1.19,2014,6,2,Wed,2.38,Women Jeans,Clothing
+13/06/2014,0,2328,1.49,2014,6,4,Fri,0,Men T-Shirt,Clothing
+14/06/2014,0,2328,1.49,2014,6,5,Sat,0,Toy Car,Toys
+15/06/2014,13,2315,1.49,2014,6,6,Sun,19.37,Basketball,Sports
+16/06/2014,30,2285,1.49,2014,6,0,Mon,44.7,Samsung Galaxy S22,Electronics
+17/06/2014,34,2251,1.49,2014,6,1,Tue,50.66,iPhone 14,Electronics
+18/06/2014,8,2243,1.49,2014,6,2,Wed,11.92,Organic Milk,Groceries
+19/06/2014,67,2176,1.29,2014,6,3,Thu,86.43,Car Oil,Automotive
+20/06/2014,41,2135,1.29,2014,6,4,Fri,52.89,Garden Shovel,Home & Garden
+21/06/2014,89,2046,1.29,2014,6,5,Sat,114.81,Wall Paint,Home & Garden
+22/06/2014,49,1997,1.29,2014,6,6,Sun,63.21,Wall Paint,Home & Garden
+23/06/2014,62,2031,1.29,2014,6,0,Mon,79.98,Baby Diapers,Groceries
+24/06/2014,81,2046,1.29,2014,6,1,Tue,104.49,Shampoo,Beauty & Health
+25/06/2014,42,2004,1.29,2014,6,2,Wed,54.18,Organic Milk,Groceries
+26/06/2014,63,2037,1.29,2014,6,3,Thu,81.27,Toy Car,Toys
+27/06/2014,107,1930,1.18,2014,6,4,Fri,126.26,Baby Diapers,Groceries
+28/06/2014,83,1847,1.19,2014,6,5,Sat,98.77,Yoga Mat,Sports
+29/06/2014,102,1745,1.19,2014,6,6,Sun,121.38,Samsung Galaxy S22,Electronics
+30/06/2014,62,1779,1.29,2014,6,0,Mon,79.98,Wiper Blades,Automotive
+01/07/2014,29,1750,1.29,2014,7,1,Tue,37.41,Wall Paint,Home & Garden
+02/07/2014,63,1687,1.29,2014,7,2,Wed,81.27,iPhone 14,Electronics
+03/07/2014,97,1590,1.29,2014,7,3,Thu,125.13,Organic Milk,Groceries
+04/07/2014,136,1454,1.29,2014,7,4,Fri,175.44,Men T-Shirt,Clothing
+05/07/2014,335,1119,1.29,2014,7,5,Sat,432.15,Yoga Mat,Sports
+06/07/2014,299,820,1.29,2014,7,6,Sun,385.71,iPhone 14,Electronics
+07/07/2014,5,814,1.29,2014,7,0,Mon,6.45,iPhone 14,Electronics
+08/07/2014,2,812,1.29,2014,7,1,Tue,2.58,Lego Set,Toys
+09/07/2014,9,803,1.29,2014,7,2,Wed,11.61,Lego Set,Toys
+10/07/2014,9,794,1.29,2014,7,3,Thu,11.61,Yoga Mat,Sports
+11/07/2014,0,794,1.29,2014,7,4,Fri,0,Novel Book,Books
+12/07/2014,0,794,1.29,2014,7,5,Sat,0,Women Jeans,Clothing
+13/07/2014,0,794,1.29,2014,7,6,Sun,0,Sony Headphones,Electronics
+14/07/2014,0,794,1.29,2014,7,0,Mon,0,Shampoo,Beauty & Health
+19/07/2014,0,794,1.49,2014,7,5,Sat,0,Basketball,Sports
+20/07/2014,0,794,1.49,2014,7,6,Sun,0,Organic Milk,Groceries
+21/07/2014,0,794,1.49,2014,7,0,Mon,0,Yoga Mat,Sports
+22/07/2014,2,792,1.49,2014,7,1,Tue,2.98,Novel Book,Books
+23/07/2014,0,792,1.49,2014,7,2,Wed,0,Novel Book,Books
+24/07/2014,0,888,1.49,2014,7,3,Thu,0,Shampoo,Beauty & Health
+25/07/2014,15,873,1.49,2014,7,4,Fri,22.35,Novel Book,Books
+26/07/2014,9,864,1.49,2014,7,5,Sat,13.41,Women Jeans,Clothing
+27/07/2014,13,851,1.49,2014,7,6,Sun,19.37,Novel Book,Books
+28/07/2014,15,1220,1.22,2014,7,0,Mon,18.3,Basketball,Sports
+29/07/2014,26,1207,2.98,2014,7,1,Tue,77.48,Face Cream,Beauty & Health
+30/07/2014,16,1191,1.55,2014,7,2,Wed,24.8,Shampoo,Beauty & Health
+31/07/2014,51,1140,1.55,2014,7,3,Thu,79.05,Women Jeans,Clothing
+01/08/2014,47,1093,1.55,2014,8,4,Fri,72.85,Sony Headphones,Electronics
+02/08/2014,56,1037,1.55,2014,8,5,Sat,86.8,Face Cream,Beauty & Health
+03/08/2014,45,992,1.55,2014,8,6,Sun,69.75,Face Cream,Beauty & Health
+04/08/2014,40,952,1.55,2014,8,0,Mon,62,Yoga Mat,Sports
+05/08/2014,17,935,1.55,2014,8,1,Tue,26.35,Organic Milk,Groceries
+06/08/2014,103,832,1.29,2014,8,2,Wed,132.87,Yoga Mat,Sports
+07/08/2014,72,760,1.29,2014,8,3,Thu,92.88,Shampoo,Beauty & Health
+08/08/2014,56,704,1.29,2014,8,4,Fri,72.24,Novel Book,Books
+09/08/2014,0,704,1.29,2014,8,5,Sat,0,Sony Headphones,Electronics
+10/08/2014,1,703,1.29,2014,8,6,Sun,1.29,Women Jeans,Clothing
+11/08/2014,0,703,1.29,2014,8,0,Mon,0,Men T-Shirt,Clothing
+12/08/2014,0,703,1.29,2014,8,1,Tue,0,Novel Book,Books
+13/08/2014,0,703,1.29,2014,8,2,Wed,0,Samsung Galaxy S22,Electronics
+14/08/2014,0,703,1.29,2014,8,3,Thu,0,Yoga Mat,Sports
+15/08/2014,0,703,1.55,2014,8,4,Fri,0,Men T-Shirt,Clothing
+16/08/2014,0,703,1.55,2014,8,5,Sat,0,Wiper Blades,Automotive
+17/08/2014,0,703,1.55,2014,8,6,Sun,0,Women Jeans,Clothing
+18/08/2014,0,2143,1.55,2014,8,0,Mon,0,Women Jeans,Clothing
+19/08/2014,0,2143,1.55,2014,8,1,Tue,0,Notebook,Office Supplies
+20/08/2014,68,2075,1.55,2014,8,2,Wed,105.4,Notebook,Office Supplies
+21/08/2014,169,1908,1.19,2014,8,3,Thu,201.11,HP Laptop,Electronics
+22/08/2014,213,1695,1.19,2014,8,4,Fri,253.47,Novel Book,Books
+23/08/2014,338,1356,1.19,2014,8,5,Sat,402.22,Face Cream,Beauty & Health
+24/08/2014,129,1227,1.19,2014,8,6,Sun,153.51,Face Cream,Beauty & Health
+26/08/2014,13,1271,1.19,2014,8,1,Tue,15.47,Shampoo,Beauty & Health
+27/08/2014,85,1186,1.19,2014,8,2,Wed,101.15,Baby Diapers,Groceries
+29/08/2014,0,1186,1.29,2014,8,4,Fri,0,Wall Paint,Home & Garden
+30/08/2014,0,1186,1.29,2014,8,5,Sat,0,Yoga Mat,Sports
+31/08/2014,0,1186,1.29,2014,8,6,Sun,0,Car Oil,Automotive
+01/09/2014,0,1474,1.29,2014,9,0,Mon,0,Garden Shovel,Home & Garden
+02/09/2014,0,1474,1.29,2014,9,1,Tue,0,Yoga Mat,Sports
+03/09/2014,0,1474,1.29,2014,9,2,Wed,0,Wall Paint,Home & Garden
+04/09/2014,0,1474,1.29,2014,9,3,Thu,0,Sony Headphones,Electronics
+05/09/2014,0,2146,1.29,2014,9,4,Fri,0,Novel Book,Books
+06/09/2014,0,2146,1.29,2014,9,5,Sat,0,Sony Headphones,Electronics
+07/09/2014,0,2146,1.29,2014,9,6,Sun,0,Car Oil,Automotive
+08/09/2014,64,2082,1.29,2014,9,0,Mon,82.56,Wiper Blades,Automotive
+09/09/2014,154,1928,1.29,2014,9,1,Tue,198.66,HP Laptop,Electronics
+10/09/2014,143,1785,1.29,2014,9,2,Wed,184.47,Sony Headphones,Electronics
+11/09/2014,96,1689,1.29,2014,9,3,Thu,123.84,Basketball,Sports
+12/09/2014,140,1549,1.29,2014,9,4,Fri,180.6,Wall Paint,Home & Garden
+13/09/2014,67,1484,1.29,2014,9,5,Sat,86.43,Organic Milk,Groceries
+14/09/2014,3,1481,1.29,2014,9,6,Sun,3.87,Novel Book,Books
+15/09/2014,71,1410,1.29,2014,9,0,Mon,91.59,Baby Diapers,Groceries
+16/09/2014,58,1352,1.29,2014,9,1,Tue,74.82,Garden Shovel,Home & Garden
+17/09/2014,62,1962,1.29,2014,9,2,Wed,79.98,Notebook,Office Supplies
+18/09/2014,62,1996,1.29,2014,9,3,Thu,79.98,iPhone 14,Electronics
+19/09/2014,62,2126,1.29,2014,9,4,Fri,79.98,Sony Headphones,Electronics
+20/09/2014,168,2532,1.29,2014,9,5,Sat,216.72,HP Laptop,Electronics
+21/09/2014,99,2433,1.29,2014,9,6,Sun,127.71,Shampoo,Beauty & Health
+22/09/2014,39,2394,1.29,2014,9,0,Mon,50.31,Women Jeans,Clothing
+23/09/2014,64,2285,1.29,2014,9,1,Tue,82.56,Face Cream,Beauty & Health
+24/09/2014,117,2168,1.29,2014,9,2,Wed,150.93,Men T-Shirt,Clothing
+25/09/2014,104,2064,1.29,2014,9,3,Thu,134.16,Basketball,Sports
+26/09/2014,108,1956,1.29,2014,9,4,Fri,139.32,Yoga Mat,Sports
+27/09/2014,234,1014,1.29,2014,9,5,Sat,301.86,Yoga Mat,Sports
+28/09/2014,97,917,1.29,2014,9,6,Sun,125.13,HP Laptop,Electronics
+29/09/2014,85,832,1.29,2014,9,0,Mon,109.65,Organic Milk,Groceries
+30/09/2014,88,1896,1.29,2014,9,1,Tue,113.52,Basketball,Sports
+01/10/2014,190,1801,1.29,2014,10,2,Wed,245.1,Basketball,Sports
+02/10/2014,163,1637,1.29,2014,10,3,Thu,210.27,HP Laptop,Electronics
+03/10/2014,90,1835,1.29,2014,10,4,Fri,116.1,Shampoo,Beauty & Health
+04/10/2014,105,1730,1.29,2014,10,5,Sat,135.45,Shampoo,Beauty & Health
+05/10/2014,47,1683,1.29,2014,10,6,Sun,60.63,Samsung Galaxy S22,Electronics
+06/10/2014,66,2097,1.29,2014,10,0,Mon,85.14,Sony Headphones,Electronics
+07/10/2014,84,2109,1.29,2014,10,1,Tue,108.36,Organic Milk,Groceries
+08/10/2014,80,2028,1.29,2014,10,2,Wed,103.2,Yoga Mat,Sports
+09/10/2014,97,1934,1.29,2014,10,3,Thu,125.13,Garden Shovel,Home & Garden
+10/10/2014,64,2254,1.29,2014,10,4,Fri,82.56,Toy Car,Toys
+11/10/2014,128,2126,1.29,2014,10,5,Sat,165.12,Baby Diapers,Groceries
+12/10/2014,85,2041,1.29,2014,10,6,Sun,109.65,Shampoo,Beauty & Health
+13/10/2014,50,2087,1.29,2014,10,0,Mon,64.5,Samsung Galaxy S22,Electronics
+14/10/2014,91,1996,1.29,2014,10,1,Tue,117.39,Organic Milk,Groceries
+15/10/2014,93,1903,1.29,2014,10,2,Wed,119.97,Baby Diapers,Groceries
+16/10/2014,50,1852,1.29,2014,10,3,Thu,64.5,Wall Paint,Home & Garden
+17/10/2014,85,2246,1.29,2014,10,4,Fri,109.65,Car Oil,Automotive
+18/10/2014,129,2117,1.29,2014,10,5,Sat,166.41,Baby Diapers,Groceries
+19/10/2014,119,1998,1.29,2014,10,6,Sun,153.51,Lego Set,Toys
+20/10/2014,45,2049,1.29,2014,10,0,Mon,58.05,Basketball,Sports
+21/10/2014,78,2067,1.29,2014,10,1,Tue,100.62,Sony Headphones,Electronics
+22/10/2014,90,1977,1.29,2014,10,2,Wed,116.1,Lego Set,Toys
+23/10/2014,78,1899,1.29,2014,10,3,Thu,100.62,Women Jeans,Clothing
+24/10/2014,62,1837,1.29,2014,10,4,Fri,79.98,Notebook,Office Supplies
+25/10/2014,97,1740,1.29,2014,10,5,Sat,125.13,Notebook,Office Supplies
+26/10/2014,111,1629,1.29,2014,10,6,Sun,143.19,Men T-Shirt,Clothing
+27/10/2014,55,1574,1.29,2014,10,0,Mon,70.95,Baby Diapers,Groceries
+28/10/2014,60,1510,1.29,2014,10,1,Tue,77.4,Samsung Galaxy S22,Electronics
+29/10/2014,61,1449,1.29,2014,10,2,Wed,78.69,Garden Shovel,Home & Garden
+30/10/2014,81,1368,1.49,2014,10,3,Thu,120.69,Shampoo,Beauty & Health
+31/10/2014,131,1237,1.49,2014,10,4,Fri,195.19,Men T-Shirt,Clothing
+01/11/2014,160,1077,1.49,2014,11,5,Sat,238.4,Women Jeans,Clothing
+02/11/2014,131,946,1.49,2014,11,6,Sun,195.19,Face Cream,Beauty & Health
+03/11/2014,43,903,1.49,2014,11,0,Mon,64.07,Wall Paint,Home & Garden
+04/11/2014,34,869,1.49,2014,11,1,Tue,50.66,HP Laptop,Electronics
+05/11/2014,33,836,1.49,2014,11,2,Wed,49.17,Women Jeans,Clothing
+06/11/2014,37,799,1.49,2014,11,3,Thu,55.13,Lego Set,Toys
+07/11/2014,82,717,1.49,2014,11,4,Fri,122.18,Notebook,Office Supplies
+08/11/2014,542,175,1.49,2014,11,5,Sat,807.58,Yoga Mat,Sports
+09/11/2014,239,0,1.49,2014,11,6,Sun,356.11,Organic Milk,Groceries
+10/11/2014,51,0,1.49,2014,11,0,Mon,75.99,Toy Car,Toys
+11/11/2014,51,80,1.49,2014,11,1,Tue,75.99,Men T-Shirt,Clothing
+12/11/2014,41,34,1.49,2014,11,2,Wed,61.09,Lego Set,Toys
+13/11/2014,1,33,1.49,2014,11,3,Thu,1.49,Wiper Blades,Automotive
+14/11/2014,0,33,1.49,2014,11,4,Fri,0,Women Jeans,Clothing
+15/11/2014,1,32,1.49,2014,11,5,Sat,1.49,Basketball,Sports
+16/11/2014,0,32,1.49,2014,11,6,Sun,0,Sony Headphones,Electronics
+17/11/2014,0,32,1.49,2014,11,0,Mon,0,Lego Set,Toys
+18/11/2014,7,25,1.49,2014,11,1,Tue,10.43,Garden Shovel,Home & Garden
+19/11/2014,1,24,1.49,2014,11,2,Wed,1.49,Garden Shovel,Home & Garden
+20/11/2014,4,20,1.29,2014,11,3,Thu,5.16,Novel Book,Books
+21/11/2014,1,19,1.29,2014,11,4,Fri,1.29,HP Laptop,Electronics
+22/11/2014,1,18,1.29,2014,11,5,Sat,1.29,HP Laptop,Electronics
+23/11/2014,2,16,1.29,2014,11,6,Sun,2.58,Novel Book,Books
+24/11/2014,0,16,1.29,2014,11,0,Mon,0,Toy Car,Toys
+25/11/2014,0,16,1.29,2014,11,1,Tue,0,Car Oil,Automotive
+26/11/2014,0,16,1.29,2014,11,2,Wed,0,Men T-Shirt,Clothing
+27/11/2014,0,16,1.29,2014,11,3,Thu,0,Women Jeans,Clothing
+28/11/2014,0,16,1.29,2014,11,4,Fri,0,Sony Headphones,Electronics
+29/11/2014,0,16,1.29,2014,11,5,Sat,0,iPhone 14,Electronics
+30/11/2014,0,16,1.29,2014,11,6,Sun,0,Wiper Blades,Automotive
+01/12/2014,0,16,1.29,2014,12,0,Mon,0,Basketball,Sports
+02/12/2014,0,16,1.29,2014,12,1,Tue,0,Garden Shovel,Home & Garden
+03/12/2014,0,16,1.29,2014,12,2,Wed,0,Shampoo,Beauty & Health
+04/12/2014,0,16,1.29,2014,12,3,Thu,0,Lego Set,Toys
+05/12/2014,0,16,1.49,2014,12,4,Fri,0,Sony Headphones,Electronics
+06/12/2014,0,16,1.49,2014,12,5,Sat,0,Toy Car,Toys
+07/12/2014,0,16,1.49,2014,12,6,Sun,0,Wall Paint,Home & Garden
+08/12/2014,0,16,1.49,2014,12,0,Mon,0,Face Cream,Beauty & Health
+09/12/2014,0,16,1.49,2014,12,1,Tue,0,iPhone 14,Electronics
+10/12/2014,0,16,1.49,2014,12,2,Wed,0,Notebook,Office Supplies
+11/12/2014,0,16,1.49,2014,12,3,Thu,0,Novel Book,Books
+12/12/2014,0,16,1.49,2014,12,4,Fri,0,Toy Car,Toys
+13/12/2014,0,16,1.49,2014,12,5,Sat,0,Toy Car,Toys
+14/12/2014,0,16,1.49,2014,12,6,Sun,0,Lego Set,Toys
+15/12/2014,0,688,1.49,2014,12,0,Mon,0,Car Oil,Automotive
+16/12/2014,49,735,1.49,2014,12,1,Tue,73.01,Yoga Mat,Sports
+17/12/2014,157,578,1.29,2014,12,2,Wed,202.53,Men T-Shirt,Clothing
+18/12/2014,193,385,1.29,2014,12,3,Thu,248.97,Yoga Mat,Sports
+19/12/2014,94,291,1.29,2014,12,4,Fri,121.26,Wiper Blades,Automotive
+20/12/2014,135,156,1.29,2014,12,5,Sat,174.15,Samsung Galaxy S22,Electronics
+21/12/2014,118,38,1.29,2014,12,6,Sun,152.22,Shampoo,Beauty & Health
+22/12/2014,18,116,1.29,2014,12,0,Mon,23.22,Basketball,Sports
+23/12/2014,0,116,1.29,2014,12,1,Tue,0,Yoga Mat,Sports
+24/12/2014,14,102,1.29,2014,12,2,Wed,18.06,Lego Set,Toys
+25/12/2014,0,102,1.29,2014,12,3,Thu,0,Face Cream,Beauty & Health
+26/12/2014,20,82,1.29,2014,12,4,Fri,25.8,Lego Set,Toys
+27/12/2014,42,328,1.29,2014,12,5,Sat,54.18,Face Cream,Beauty & Health
+28/12/2014,45,283,1.29,2014,12,6,Sun,58.05,Toy Car,Toys
+29/12/2014,55,612,1.29,2014,12,0,Mon,70.95,Face Cream,Beauty & Health
+30/12/2014,59,553,1.29,2014,12,1,Tue,76.11,Sony Headphones,Electronics
+31/12/2014,11,542,1.29,2014,12,2,Wed,14.19,Wiper Blades,Automotive
+01/01/2015,0,542,1.29,2015,1,3,Thu,0,Basketball,Sports
+02/01/2015,77,561,1.29,2015,1,4,Fri,99.33,Samsung Galaxy S22,Electronics
+03/01/2015,60,2229,1.29,2015,1,5,Sat,77.4,Lego Set,Toys
+04/01/2015,1,2228,1.29,2015,1,6,Sun,1.29,Sony Headphones,Electronics
+05/01/2015,69,2351,1.29,2015,1,0,Mon,89.01,Garden Shovel,Home & Garden
+06/01/2015,98,2253,1.29,2015,1,1,Tue,126.42,Garden Shovel,Home & Garden
+07/01/2015,119,2134,1.29,2015,1,2,Wed,153.51,Shampoo,Beauty & Health
+08/01/2015,93,2137,1.29,2015,1,3,Thu,119.97,Baby Diapers,Groceries
+09/01/2015,92,2045,1.29,2015,1,4,Fri,118.68,Novel Book,Books
+10/01/2015,112,1933,1.29,2015,1,5,Sat,144.48,Samsung Galaxy S22,Electronics
+11/01/2015,96,1837,1.29,2015,1,6,Sun,123.84,Wall Paint,Home & Garden
+12/01/2015,93,1744,1.29,2015,1,0,Mon,119.97,Lego Set,Toys
+13/01/2015,65,1679,1.29,2015,1,1,Tue,83.85,Notebook,Office Supplies
+14/01/2015,100,1581,1.29,2015,1,2,Wed,129,Garden Shovel,Home & Garden
+15/01/2015,51,1530,1.49,2015,1,3,Thu,75.99,Basketball,Sports
+16/01/2015,55,1475,1.49,2015,1,4,Fri,81.95,Novel Book,Books
+17/01/2015,71,1403,1.49,2015,1,5,Sat,105.79,Car Oil,Automotive
+18/01/2015,57,1346,1.49,2015,1,6,Sun,84.93,Notebook,Office Supplies
+19/01/2015,34,1312,1.49,2015,1,0,Mon,50.66,Sony Headphones,Electronics
+20/01/2015,47,1265,1.49,2015,1,1,Tue,70.03,Basketball,Sports
+21/01/2015,88,1177,1.29,2015,1,2,Wed,113.52,Women Jeans,Clothing
+22/01/2015,51,1126,1.29,2015,1,3,Thu,65.79,Wall Paint,Home & Garden
+23/01/2015,49,1076,1.29,2015,1,4,Fri,63.21,Garden Shovel,Home & Garden
+24/01/2015,110,966,1.29,2015,1,5,Sat,141.9,Yoga Mat,Sports
+25/01/2015,30,936,1.29,2015,1,6,Sun,38.7,Yoga Mat,Sports
+26/01/2015,59,877,1.29,2015,1,0,Mon,76.11,Basketball,Sports
+27/01/2015,97,780,1.29,2015,1,1,Tue,125.13,Lego Set,Toys
+28/01/2015,155,625,1.29,2015,1,2,Wed,199.95,Wall Paint,Home & Garden
+29/01/2015,125,500,1.29,2015,1,3,Thu,161.25,Shampoo,Beauty & Health
+30/01/2015,100,496,1.29,2015,1,4,Fri,129,HP Laptop,Electronics
+31/01/2015,211,285,1.29,2015,1,5,Sat,272.19,Baby Diapers,Groceries
+01/02/2015,88,197,1.29,2015,2,6,Sun,113.52,Samsung Galaxy S22,Electronics
+02/02/2015,114,467,1.29,2015,2,0,Mon,147.06,Yoga Mat,Sports
+03/02/2015,89,570,1.29,2015,2,1,Tue,114.81,Organic Milk,Groceries
+04/02/2015,118,548,1.29,2015,2,2,Wed,152.22,Baby Diapers,Groceries
+05/02/2015,84,1136,1.29,2015,2,3,Thu,108.36,Yoga Mat,Sports
+06/02/2015,125,1299,1.29,2015,2,4,Fri,161.25,Face Cream,Beauty & Health
+07/02/2015,184,1211,1.04,2015,2,5,Sat,191.36,Organic Milk,Groceries
+08/02/2015,107,1104,1.29,2015,2,6,Sun,138.03,Wall Paint,Home & Garden
+09/02/2015,70,1033,1.29,2015,2,0,Mon,90.3,Shampoo,Beauty & Health
+10/02/2015,66,1063,1.29,2015,2,1,Tue,85.14,Garden Shovel,Home & Garden
+11/02/2015,89,974,1.29,2015,2,2,Wed,114.81,Novel Book,Books
+12/02/2015,50,1116,2.84,2015,2,3,Thu,142,Novel Book,Books
+13/02/2015,20,1096,2.89,2015,2,4,Fri,57.8,HP Laptop,Electronics
+14/02/2015,77,1019,2.89,2015,2,5,Sat,222.53,Organic Milk,Groceries
+15/02/2015,33,986,2.89,2015,2,6,Sun,95.37,Men T-Shirt,Clothing
+16/02/2015,47,1035,2.89,2015,2,0,Mon,135.83,Basketball,Sports
+17/02/2015,35,1000,2.89,2015,2,1,Tue,101.15,HP Laptop,Electronics
+18/02/2015,60,1228,2.89,2015,2,2,Wed,173.4,Yoga Mat,Sports
+19/02/2015,31,1197,2.89,2015,2,3,Thu,89.59,Wall Paint,Home & Garden
+20/02/2015,35,1162,2.89,2015,2,4,Fri,101.15,Men T-Shirt,Clothing
+21/02/2015,80,1082,2.87,2015,2,5,Sat,229.6,Basketball,Sports
+22/02/2015,42,1039,2.89,2015,2,6,Sun,121.38,Face Cream,Beauty & Health
+23/02/2015,23,1016,2.89,2015,2,0,Mon,66.47,Lego Set,Toys
+24/02/2015,19,997,2.89,2015,2,1,Tue,54.91,Baby Diapers,Groceries
+25/02/2015,18,1075,2.89,2015,2,2,Wed,52.02,Shampoo,Beauty & Health
+26/02/2015,37,1134,2.89,2015,2,3,Thu,106.93,Wiper Blades,Automotive
+27/02/2015,50,1084,2.89,2015,2,4,Fri,144.5,Men T-Shirt,Clothing
+28/02/2015,127,957,2.89,2015,2,5,Sat,367.03,Sony Headphones,Electronics
+01/03/2015,123,834,2.89,2015,3,6,Sun,355.47,Yoga Mat,Sports
+02/03/2015,44,789,2.89,2015,3,0,Mon,127.16,HP Laptop,Electronics
+03/03/2015,22,767,2.89,2015,3,1,Tue,63.58,Yoga Mat,Sports
+04/03/2015,31,736,2.89,2015,3,2,Wed,89.59,Face Cream,Beauty & Health
+05/03/2015,22,714,2.89,2015,3,3,Thu,63.58,Wiper Blades,Automotive
+06/03/2015,40,674,2.89,2015,3,4,Fri,115.6,Car Oil,Automotive
+07/03/2015,62,612,2.89,2015,3,5,Sat,179.18,Shampoo,Beauty & Health
+08/03/2015,59,553,2.89,2015,3,6,Sun,170.51,Lego Set,Toys
+09/03/2015,28,525,2.89,2015,3,0,Mon,80.92,Men T-Shirt,Clothing
+10/03/2015,68,458,1.49,2015,3,1,Tue,101.32,Wiper Blades,Automotive
+11/03/2015,73,385,1.49,2015,3,2,Wed,108.77,Wiper Blades,Automotive
+12/03/2015,87,298,1.49,2015,3,3,Thu,129.63,Women Jeans,Clothing
+13/03/2015,175,1878,1.29,2015,3,4,Fri,225.75,HP Laptop,Electronics
+14/03/2015,300,1575,1.29,2015,3,5,Sat,387,Samsung Galaxy S22,Electronics
+15/03/2015,196,1379,1.29,2015,3,6,Sun,252.84,Basketball,Sports
+16/03/2015,123,1256,1.29,2015,3,0,Mon,158.67,Notebook,Office Supplies
+17/03/2015,168,1088,1.29,2015,3,1,Tue,216.72,Men T-Shirt,Clothing
+18/03/2015,209,1263,1.29,2015,3,2,Wed,269.61,HP Laptop,Electronics
+19/03/2015,188,1075,1.29,2015,3,3,Thu,242.52,Shampoo,Beauty & Health
+20/03/2015,219,856,1.29,2015,3,4,Fri,282.51,Car Oil,Automotive
+21/03/2015,381,475,1.29,2015,3,5,Sat,491.49,Samsung Galaxy S22,Electronics
+22/03/2015,158,317,1.29,2015,3,6,Sun,203.82,Shampoo,Beauty & Health
+23/03/2015,12,304,1.49,2015,3,0,Mon,17.88,Garden Shovel,Home & Garden
+24/03/2015,8,296,1.29,2015,3,1,Tue,10.32,HP Laptop,Electronics
+25/03/2015,10,286,1.29,2015,3,2,Wed,12.9,Wiper Blades,Automotive
+26/03/2015,88,774,1.29,2015,3,3,Thu,113.52,Wiper Blades,Automotive
+27/03/2015,196,770,1.29,2015,3,4,Fri,252.84,Yoga Mat,Sports
+28/03/2015,206,660,1.29,2015,3,5,Sat,265.74,HP Laptop,Electronics
+29/03/2015,83,577,1.29,2015,3,6,Sun,107.07,Toy Car,Toys
+30/03/2015,0,673,1.49,2015,3,0,Mon,0,Baby Diapers,Groceries
+31/03/2015,0,673,1.49,2015,3,1,Tue,0,Car Oil,Automotive
+01/04/2015,27,646,1.49,2015,4,2,Wed,40.23,Car Oil,Automotive
+02/04/2015,27,1002,1.49,2015,4,3,Thu,40.23,Women Jeans,Clothing
+03/04/2015,54,1044,1.49,2015,4,4,Fri,80.46,Women Jeans,Clothing
+04/04/2015,136,908,1.49,2015,4,5,Sat,202.64,Wiper Blades,Automotive
+05/04/2015,55,853,1.49,2015,4,6,Sun,81.95,Yoga Mat,Sports
+06/04/2015,22,831,1.49,2015,4,0,Mon,32.78,Yoga Mat,Sports
+07/04/2015,30,801,1.49,2015,4,1,Tue,44.7,Wiper Blades,Automotive
+08/04/2015,30,771,1.49,2015,4,2,Wed,44.7,Toy Car,Toys
+09/04/2015,30,930,1.49,2015,4,3,Thu,44.7,HP Laptop,Electronics
+10/04/2015,44,1078,1.49,2015,4,4,Fri,65.56,Notebook,Office Supplies
+11/04/2015,39,1423,1.49,2015,4,5,Sat,58.11,Notebook,Office Supplies
+12/04/2015,57,1366,1.49,2015,4,6,Sun,84.93,Men T-Shirt,Clothing
+13/04/2015,30,1336,1.49,2015,4,0,Mon,44.7,Wiper Blades,Automotive
+14/04/2015,47,1385,1.49,2015,4,1,Tue,70.03,Garden Shovel,Home & Garden
+15/04/2015,74,1311,1.49,2015,4,2,Wed,110.26,Men T-Shirt,Clothing
+16/04/2015,114,1196,1.39,2015,4,3,Thu,158.46,HP Laptop,Electronics
+17/04/2015,40,1156,1.39,2015,4,4,Fri,55.6,Wall Paint,Home & Garden
+18/04/2015,62,1094,1.39,2015,4,5,Sat,86.18,Samsung Galaxy S22,Electronics
+19/04/2015,62,1032,1.39,2015,4,6,Sun,86.18,Shampoo,Beauty & Health
+20/04/2015,135,897,1.39,2015,4,0,Mon,187.65,Lego Set,Toys
+21/04/2015,175,722,1.39,2015,4,1,Tue,243.25,Toy Car,Toys
+22/04/2015,82,736,1.39,2015,4,2,Wed,113.98,Lego Set,Toys
+23/04/2015,62,674,1.4,2015,4,3,Thu,86.8,Baby Diapers,Groceries
+24/04/2015,88,586,1.4,2015,4,4,Fri,123.2,HP Laptop,Electronics
+25/04/2015,152,434,1.4,2015,4,5,Sat,212.8,Car Oil,Automotive
+26/04/2015,64,370,1.4,2015,4,6,Sun,89.6,Lego Set,Toys
+27/04/2015,67,591,1.4,2015,4,0,Mon,93.8,Sony Headphones,Electronics
+28/04/2015,73,806,1.39,2015,4,1,Tue,101.47,Car Oil,Automotive
+29/04/2015,130,676,1.39,2015,4,2,Wed,180.7,Samsung Galaxy S22,Electronics
+30/04/2015,115,657,1.39,2015,4,3,Thu,159.85,Wiper Blades,Automotive
+01/05/2015,260,397,1.39,2015,5,4,Fri,361.4,Lego Set,Toys
+02/05/2015,228,169,1.39,2015,5,5,Sat,316.92,Samsung Galaxy S22,Electronics
+03/05/2015,120,49,1.39,2015,5,6,Sun,166.8,Samsung Galaxy S22,Electronics
+04/05/2015,31,18,1.39,2015,5,0,Mon,43.09,Novel Book,Books
+05/05/2015,0,18,1.39,2015,5,1,Tue,0,Basketball,Sports
+06/05/2015,3,15,1.39,2015,5,2,Wed,4.17,Basketball,Sports
+07/05/2015,0,15,1.39,2015,5,3,Thu,0,Face Cream,Beauty & Health
+08/05/2015,0,15,1.39,2015,5,4,Fri,0,Baby Diapers,Groceries
+10/05/2015,0,15,1.49,2015,5,6,Sun,0,Garden Shovel,Home & Garden
+11/05/2015,1,14,1.49,2015,5,0,Mon,1.49,iPhone 14,Electronics
+12/05/2015,0,14,1.49,2015,5,1,Tue,0,Garden Shovel,Home & Garden
+13/05/2015,1,13,1.49,2015,5,2,Wed,1.49,HP Laptop,Electronics
+14/05/2015,1,12,1.49,2015,5,3,Thu,1.49,Baby Diapers,Groceries
+15/05/2015,1,10,1.49,2015,5,4,Fri,1.49,Yoga Mat,Sports
+16/05/2015,0,10,1.49,2015,5,5,Sat,0,Notebook,Office Supplies
+17/05/2015,0,10,1.49,2015,5,6,Sun,0,Wall Paint,Home & Garden
+18/05/2015,0,10,1.49,2015,5,0,Mon,0,Novel Book,Books
+19/05/2015,1,9,1.49,2015,5,1,Tue,1.49,iPhone 14,Electronics
+20/05/2015,0,9,1.49,2015,5,2,Wed,0,Garden Shovel,Home & Garden
+21/05/2015,0,9,1.49,2015,5,3,Thu,0,iPhone 14,Electronics
+22/05/2015,0,9,1.49,2015,5,4,Fri,0,Yoga Mat,Sports
+23/05/2015,0,9,1.49,2015,5,5,Sat,0,Lego Set,Toys
+24/05/2015,0,9,1.49,2015,5,6,Sun,0,Baby Diapers,Groceries
+25/05/2015,0,9,1.39,2015,5,0,Mon,0,Samsung Galaxy S22,Electronics
+26/05/2015,0,9,1.39,2015,5,1,Tue,0,Lego Set,Toys
+27/05/2015,0,9,1.39,2015,5,2,Wed,0,HP Laptop,Electronics
+28/05/2015,0,9,1.39,2015,5,3,Thu,0,Wall Paint,Home & Garden
+29/05/2015,0,9,1.39,2015,5,4,Fri,0,Car Oil,Automotive
+30/05/2015,0,9,1.39,2015,5,5,Sat,0,Garden Shovel,Home & Garden
+31/05/2015,0,9,1.39,2015,5,6,Sun,0,Organic Milk,Groceries
+01/06/2015,0,105,1.39,2015,6,0,Mon,0,Notebook,Office Supplies
+02/06/2015,0,105,1.39,2015,6,1,Tue,0,Garden Shovel,Home & Garden
+03/06/2015,0,105,1.39,2015,6,2,Wed,0,Garden Shovel,Home & Garden
+04/06/2015,0,105,1.39,2015,6,3,Thu,0,Shampoo,Beauty & Health
+05/06/2015,168,1377,1.39,2015,6,4,Fri,233.52,Sony Headphones,Electronics
+06/06/2015,201,1176,1.2,2015,6,5,Sat,241.2,Wall Paint,Home & Garden
+07/06/2015,147,1029,1.19,2015,6,6,Sun,174.93,Sony Headphones,Electronics
+08/06/2015,119,910,1.19,2015,6,0,Mon,141.61,Lego Set,Toys
+09/06/2015,122,788,1.19,2015,6,1,Tue,145.18,Novel Book,Books
+10/06/2015,149,639,1.19,2015,6,2,Wed,177.31,Samsung Galaxy S22,Electronics
+11/06/2015,111,720,1.19,2015,6,3,Thu,132.09,Novel Book,Books
+12/06/2015,95,721,1.19,2015,6,4,Fri,113.05,Basketball,Sports
+13/06/2015,237,675,1.19,2015,6,5,Sat,282.03,Samsung Galaxy S22,Electronics
+14/06/2015,110,565,1.19,2015,6,6,Sun,130.9,Wiper Blades,Automotive
+15/06/2015,104,653,1.19,2015,6,0,Mon,123.76,Women Jeans,Clothing
+16/06/2015,61,592,1.19,2015,6,1,Tue,72.59,Lego Set,Toys
+17/06/2015,40,1127,1.29,2015,6,2,Wed,51.6,Lego Set,Toys
+18/06/2015,114,1301,1.29,2015,6,3,Thu,147.06,Organic Milk,Groceries
+19/06/2015,129,1172,1.29,2015,6,4,Fri,166.41,iPhone 14,Electronics
+20/06/2015,111,1061,1.29,2015,6,5,Sat,143.19,Shampoo,Beauty & Health
+21/06/2015,146,915,1.29,2015,6,6,Sun,188.34,Toy Car,Toys
+22/06/2015,57,858,1.49,2015,6,0,Mon,84.93,Lego Set,Toys
+23/06/2015,19,839,1.49,2015,6,1,Tue,28.31,Yoga Mat,Sports
+24/06/2015,27,1291,1.49,2015,6,2,Wed,40.23,Men T-Shirt,Clothing
+25/06/2015,62,1229,1.49,2015,6,3,Thu,92.38,Basketball,Sports
+26/06/2015,95,1902,1.49,2015,6,4,Fri,141.55,Shampoo,Beauty & Health
+27/06/2015,183,1719,1.39,2015,6,5,Sat,254.37,Wiper Blades,Automotive
+28/06/2015,94,1624,1.39,2015,6,6,Sun,130.66,Notebook,Office Supplies
+29/06/2015,116,1606,1.39,2015,6,0,Mon,161.24,Garden Shovel,Home & Garden
+30/06/2015,63,1543,1.39,2015,6,1,Tue,87.57,Toy Car,Toys
+01/07/2015,147,1396,1.39,2015,7,2,Wed,204.33,Basketball,Sports
+02/07/2015,101,1295,1.39,2015,7,3,Thu,140.39,Samsung Galaxy S22,Electronics
+03/07/2015,248,1047,1.29,2015,7,4,Fri,319.92,Samsung Galaxy S22,Electronics
+04/07/2015,142,905,1.29,2015,7,5,Sat,183.18,Wall Paint,Home & Garden
+05/07/2015,186,719,1.29,2015,7,6,Sun,239.94,Organic Milk,Groceries
+06/07/2015,109,898,1.29,2015,7,0,Mon,140.61,Toy Car,Toys
+07/07/2015,228,957,1.29,2015,7,1,Tue,294.12,Wall Paint,Home & Garden
+08/07/2015,66,1083,1.29,2015,7,2,Wed,85.14,Toy Car,Toys
+09/07/2015,182,901,1.29,2015,7,3,Thu,234.78,Lego Set,Toys
+10/07/2015,1,996,1.29,2015,7,4,Fri,1.29,Samsung Galaxy S22,Electronics
+11/07/2015,64,1124,1.29,2015,7,5,Sat,82.56,Basketball,Sports
+12/07/2015,118,1006,1.29,2015,7,6,Sun,152.22,Wiper Blades,Automotive
+13/07/2015,55,950,1.29,2015,7,0,Mon,70.95,Baby Diapers,Groceries
+14/07/2015,43,907,1.27,2015,7,1,Tue,54.61,Samsung Galaxy S22,Electronics
+15/07/2015,95,812,1.28,2015,7,2,Wed,121.6,iPhone 14,Electronics
+16/07/2015,54,758,1.28,2015,7,3,Thu,69.12,Car Oil,Automotive
+17/07/2015,85,673,1.28,2015,7,4,Fri,108.8,HP Laptop,Electronics
+18/07/2015,92,869,1.27,2015,7,5,Sat,116.84,Samsung Galaxy S22,Electronics
+19/07/2015,61,808,1.28,2015,7,6,Sun,78.08,Face Cream,Beauty & Health
+20/07/2015,111,697,1.27,2015,7,0,Mon,140.97,Samsung Galaxy S22,Electronics
+21/07/2015,7,1170,1.28,2015,7,1,Tue,8.96,Yoga Mat,Sports
+22/07/2015,4,1262,1.28,2015,7,2,Wed,5.12,Wall Paint,Home & Garden
+23/07/2015,66,1292,1.27,2015,7,3,Thu,83.82,Men T-Shirt,Clothing
+24/07/2015,95,1197,1.28,2015,7,4,Fri,121.6,Wiper Blades,Automotive
+25/07/2015,190,1103,1.27,2015,7,5,Sat,241.3,Baby Diapers,Groceries
+26/07/2015,60,1043,1.28,2015,7,6,Sun,76.8,Lego Set,Toys
+27/07/2015,42,1097,1.27,2015,7,0,Mon,53.34,Face Cream,Beauty & Health
+28/07/2015,79,1306,1.27,2015,7,1,Tue,100.33,Face Cream,Beauty & Health
+29/07/2015,109,1581,1.27,2015,7,2,Wed,138.43,Men T-Shirt,Clothing
+30/07/2015,165,1416,1.28,2015,7,3,Thu,211.2,Notebook,Office Supplies
+31/07/2015,99,1317,1.27,2015,7,4,Fri,125.73,Face Cream,Beauty & Health
+01/08/2015,233,1084,1.48,2015,8,5,Sat,344.84,Samsung Galaxy S22,Electronics
+02/08/2015,16,1067,1.48,2015,8,6,Sun,23.68,Wall Paint,Home & Garden
+03/08/2015,2,1065,1.46,2015,8,0,Mon,2.92,Women Jeans,Clothing
+04/08/2015,5,1060,1.47,2015,8,1,Tue,7.35,HP Laptop,Electronics
+05/08/2015,22,1038,1.48,2015,8,2,Wed,32.56,Shampoo,Beauty & Health
+06/08/2015,8,1030,1.49,2015,8,3,Thu,11.92,HP Laptop,Electronics
+07/08/2015,65,321,1.48,2015,8,4,Fri,96.2,Face Cream,Beauty & Health
+08/08/2015,157,451,1.48,2015,8,5,Sat,232.36,Basketball,Sports
+09/08/2015,65,386,1.48,2015,8,6,Sun,96.2,HP Laptop,Electronics
+10/08/2015,90,296,1.48,2015,8,0,Mon,133.2,iPhone 14,Electronics
+11/08/2015,3,1157,1.18,2015,8,1,Tue,3.54,Shampoo,Beauty & Health
+12/08/2015,5,1152,1.18,2015,8,2,Wed,5.9,HP Laptop,Electronics
+13/08/2015,1,2015,1.19,2015,8,3,Thu,1.19,Wiper Blades,Automotive
+14/08/2015,65,2046,1.18,2015,8,4,Fri,76.7,Notebook,Office Supplies
+15/08/2015,235,1811,1.17,2015,8,5,Sat,274.95,Women Jeans,Clothing
+16/08/2015,76,1735,1.18,2015,8,6,Sun,89.68,Sony Headphones,Electronics
+17/08/2015,2,1733,1.19,2015,8,0,Mon,2.38,Shampoo,Beauty & Health
+18/08/2015,101,1632,1.18,2015,8,1,Tue,119.18,Basketball,Sports
+19/08/2015,162,1470,1.17,2015,8,2,Wed,189.54,Men T-Shirt,Clothing
+20/08/2015,25,1446,1.17,2015,8,3,Thu,29.25,HP Laptop,Electronics
+21/08/2015,4,1442,1.16,2015,8,4,Fri,4.64,Organic Milk,Groceries
+22/08/2015,1,1441,1.19,2015,8,5,Sat,1.19,Car Oil,Automotive
+23/08/2015,75,1366,1.17,2015,8,6,Sun,87.75,Face Cream,Beauty & Health
+24/08/2015,32,1334,1.18,2015,8,0,Mon,37.76,Baby Diapers,Groceries
+25/08/2015,76,1258,1.18,2015,8,1,Tue,89.68,Face Cream,Beauty & Health
+26/08/2015,6,1252,1.17,2015,8,2,Wed,7.02,Women Jeans,Clothing
+27/08/2015,65,1285,1.18,2015,8,3,Thu,76.7,Wall Paint,Home & Garden
+28/08/2015,145,1140,1.17,2015,8,4,Fri,169.65,Basketball,Sports
+29/08/2015,78,1062,1.17,2015,8,5,Sat,91.26,Novel Book,Books
+30/08/2015,6,1055,1.18,2015,8,6,Sun,7.08,Shampoo,Beauty & Health
+31/08/2015,0,1151,1.19,2015,8,0,Mon,0,Face Cream,Beauty & Health
+01/09/2015,126,1217,1.18,2015,9,1,Tue,148.68,Baby Diapers,Groceries
+02/09/2015,240,1073,1.17,2015,9,2,Wed,280.8,Face Cream,Beauty & Health
+03/09/2015,67,1006,1.68,2015,9,3,Thu,112.56,Yoga Mat,Sports
+04/09/2015,140,863,1.68,2015,9,4,Fri,235.2,Wall Paint,Home & Garden
+05/09/2015,208,655,1.68,2015,9,5,Sat,349.44,Novel Book,Books
+06/09/2015,76,579,1.68,2015,9,6,Sun,127.68,Toy Car,Toys
+07/09/2015,240,339,1.68,2015,9,0,Mon,403.2,Yoga Mat,Sports
+08/09/2015,52,575,1.01,2015,9,1,Tue,52.52,Wall Paint,Home & Garden
+09/09/2015,111,464,0.94,2015,9,2,Wed,104.34,Samsung Galaxy S22,Electronics
+10/09/2015,176,288,0.97,2015,9,3,Thu,170.72,Men T-Shirt,Clothing
+11/09/2015,84,300,1.01,2015,9,4,Fri,84.84,Shampoo,Beauty & Health
+12/09/2015,171,129,1,2015,9,5,Sat,171,Wiper Blades,Automotive
+13/09/2015,102,27,0.99,2015,9,6,Sun,100.98,Organic Milk,Groceries
+14/09/2015,69,0,0.97,2015,9,0,Mon,66.93,Face Cream,Beauty & Health
+15/09/2015,77,0,0.93,2015,9,1,Tue,71.61,Yoga Mat,Sports
+16/09/2015,174,0,0.97,2015,9,2,Wed,168.78,Garden Shovel,Home & Garden
+17/09/2015,69,0,1.68,2015,9,3,Thu,115.92,iPhone 14,Electronics
+18/09/2015,52,930,1.68,2015,9,4,Fri,87.36,Sony Headphones,Electronics
+19/09/2015,42,1080,1.68,2015,9,5,Sat,70.56,Novel Book,Books
+20/09/2015,1,1079,1.69,2015,9,6,Sun,1.69,Car Oil,Automotive
+21/09/2015,62,1016,1.68,2015,9,0,Mon,104.16,Face Cream,Beauty & Health
+22/09/2015,88,928,1.68,2015,9,1,Tue,147.84,Organic Milk,Groceries
+23/09/2015,60,1348,1.68,2015,9,2,Wed,100.8,Shampoo,Beauty & Health
+24/09/2015,2,1442,1.66,2015,9,3,Thu,3.32,Wiper Blades,Automotive
+25/09/2015,3,1631,1.69,2015,9,4,Fri,5.07,Sony Headphones,Electronics
+26/09/2015,9,1622,1.76,2015,9,5,Sat,15.84,Men T-Shirt,Clothing
+27/09/2015,142,1480,1.78,2015,9,6,Sun,252.76,Toy Car,Toys
+28/09/2015,90,1580,1.78,2015,9,0,Mon,160.2,Women Jeans,Clothing
+29/09/2015,20,1560,1.78,2015,9,1,Tue,35.6,Samsung Galaxy S22,Electronics
+30/09/2015,37,1523,1.78,2015,9,2,Wed,65.86,Shampoo,Beauty & Health
+01/10/2015,86,1437,1.78,2015,10,3,Thu,153.08,Men T-Shirt,Clothing
+02/10/2015,166,1367,1.78,2015,10,4,Fri,295.48,Organic Milk,Groceries
+03/10/2015,391,976,1.48,2015,10,5,Sat,578.68,iPhone 14,Electronics
+04/10/2015,56,919,1.47,2015,10,6,Sun,82.32,Wiper Blades,Automotive
+05/10/2015,64,951,1.47,2015,10,0,Mon,94.08,Wall Paint,Home & Garden
+06/10/2015,35,916,1.48,2015,10,1,Tue,51.8,Garden Shovel,Home & Garden
+07/10/2015,40,875,1.47,2015,10,2,Wed,58.8,Baby Diapers,Groceries
+08/10/2015,21,1526,1.48,2015,10,3,Thu,31.08,Yoga Mat,Sports
+09/10/2015,42,1484,1.48,2015,10,4,Fri,62.16,Garden Shovel,Home & Garden
+10/10/2015,95,1389,1.48,2015,10,5,Sat,140.6,Basketball,Sports
+11/10/2015,85,1304,1.48,2015,10,6,Sun,125.8,Sony Headphones,Electronics
+12/10/2015,140,1356,1.47,2015,10,0,Mon,205.8,Wiper Blades,Automotive
+13/10/2015,80,1276,1.48,2015,10,1,Tue,118.4,Face Cream,Beauty & Health
+14/10/2015,91,1185,1.48,2015,10,2,Wed,134.68,Sony Headphones,Electronics
+15/10/2015,65,1120,1.48,2015,10,3,Thu,96.2,iPhone 14,Electronics
+16/10/2015,166,1146,1.48,2015,10,4,Fri,245.68,Yoga Mat,Sports
+17/10/2015,137,1297,1.48,2015,10,5,Sat,202.76,iPhone 14,Electronics
+18/10/2015,174,1123,1.48,2015,10,6,Sun,257.52,Novel Book,Books
+19/10/2015,120,1291,1.48,2015,10,0,Mon,177.6,Samsung Galaxy S22,Electronics
+20/10/2015,93,1198,1.78,2015,10,1,Tue,165.54,Wiper Blades,Automotive
+21/10/2015,100,1096,1.78,2015,10,2,Wed,178,Women Jeans,Clothing
+22/10/2015,137,1055,1.27,2015,10,3,Thu,173.99,Organic Milk,Groceries
+23/10/2015,241,1006,1.27,2015,10,4,Fri,306.07,Basketball,Sports
+24/10/2015,113,893,1.27,2015,10,5,Sat,143.51,Car Oil,Automotive
+25/10/2015,257,636,1.28,2015,10,6,Sun,328.96,iPhone 14,Electronics
+26/10/2015,166,474,1.28,2015,10,0,Mon,212.48,Sony Headphones,Electronics
+27/10/2015,162,312,1.28,2015,10,1,Tue,207.36,Sony Headphones,Electronics
+28/10/2015,247,1121,1.28,2015,10,2,Wed,316.16,Men T-Shirt,Clothing
+29/10/2015,70,1435,1.78,2015,10,3,Thu,124.6,Wall Paint,Home & Garden
+30/10/2015,139,1296,1.35,2015,10,4,Fri,187.65,Wall Paint,Home & Garden
+31/10/2015,195,1293,1.34,2015,10,5,Sat,261.3,Wiper Blades,Automotive
+01/11/2015,206,1087,1.34,2015,11,6,Sun,276.04,Shampoo,Beauty & Health
+02/11/2015,268,819,1.35,2015,11,0,Mon,361.8,Wiper Blades,Automotive
+03/11/2015,59,760,1.35,2015,11,1,Tue,79.65,Toy Car,Toys
+04/11/2015,99,1237,1.34,2015,11,2,Wed,132.66,Baby Diapers,Groceries
+05/11/2015,63,1366,1.75,2015,11,3,Thu,110.25,HP Laptop,Electronics
+06/11/2015,77,1577,1.76,2015,11,4,Fri,135.52,Car Oil,Automotive
+07/11/2015,232,1345,2.18,2015,11,5,Sat,505.76,Car Oil,Automotive
+08/11/2015,157,1188,2.18,2015,11,6,Sun,342.26,Women Jeans,Clothing
+09/11/2015,107,1081,2.19,2015,11,0,Mon,234.33,Shampoo,Beauty & Health
+10/11/2015,57,1023,2.18,2015,11,1,Tue,124.26,Garden Shovel,Home & Garden
+11/11/2015,95,930,2.18,2015,11,2,Wed,207.1,Shampoo,Beauty & Health
+12/11/2015,86,844,2.19,2015,11,3,Thu,188.34,Shampoo,Beauty & Health
+13/11/2015,102,742,2.19,2015,11,4,Fri,223.38,Wiper Blades,Automotive
+14/11/2015,184,846,1.79,2015,11,5,Sat,329.36,Yoga Mat,Sports
+15/11/2015,138,708,1.79,2015,11,6,Sun,247.02,Shampoo,Beauty & Health
+16/11/2015,106,698,2.19,2015,11,0,Mon,232.14,Garden Shovel,Home & Garden
+17/11/2015,89,609,2.19,2015,11,1,Tue,194.91,Car Oil,Automotive
+18/11/2015,107,502,2.19,2015,11,2,Wed,234.33,Organic Milk,Groceries
+19/11/2015,78,424,2.19,2015,11,3,Thu,170.82,Wiper Blades,Automotive
+20/11/2015,185,238,2.19,2015,11,4,Fri,405.15,Organic Milk,Groceries
+21/11/2015,151,87,2.19,2015,11,5,Sat,330.69,Lego Set,Toys
+22/11/2015,97,0,2.19,2015,11,6,Sun,212.43,Basketball,Sports
+23/11/2015,76,0,2.19,2015,11,0,Mon,166.44,Car Oil,Automotive
+24/11/2015,140,0,2.19,2015,11,1,Tue,306.6,Garden Shovel,Home & Garden
+25/11/2015,137,0,2.67,2015,11,2,Wed,365.79,Shampoo,Beauty & Health
+26/11/2015,84,0,2.69,2015,11,3,Thu,225.96,Toy Car,Toys
+27/11/2015,0,0,2.69,2015,11,4,Fri,0,Wiper Blades,Automotive
+28/11/2015,7,0,2.69,2015,11,5,Sat,18.83,Car Oil,Automotive
+29/11/2015,5,0,2.69,2015,11,6,Sun,13.45,Basketball,Sports
+30/11/2015,22,0,2.69,2015,11,0,Mon,59.18,Baby Diapers,Groceries
+01/12/2015,36,0,2.29,2015,12,1,Tue,82.44,Car Oil,Automotive
+02/12/2015,36,1655,2.29,2015,12,2,Wed,82.44,Wall Paint,Home & Garden
+03/12/2015,38,2001,2.29,2015,12,3,Thu,87.02,Yoga Mat,Sports
+04/12/2015,95,1905,2.29,2015,12,4,Fri,217.55,Face Cream,Beauty & Health
+05/12/2015,108,1893,2.25,2015,12,5,Sat,243,Garden Shovel,Home & Garden
+06/12/2015,70,1823,2.29,2015,12,6,Sun,160.3,Lego Set,Toys
+07/12/2015,78,1745,2.29,2015,12,0,Mon,178.62,Garden Shovel,Home & Garden
+08/12/2015,77,1668,2.29,2015,12,1,Tue,176.33,Women Jeans,Clothing
+09/12/2015,76,1880,2.29,2015,12,2,Wed,174.04,Samsung Galaxy S22,Electronics
+10/12/2015,59,1821,2.29,2015,12,3,Thu,135.11,Garden Shovel,Home & Garden
+11/12/2015,42,1779,2.29,2015,12,4,Fri,96.18,Car Oil,Automotive
+12/12/2015,142,1637,2.29,2015,12,5,Sat,325.18,Women Jeans,Clothing
+13/12/2015,116,1521,2.29,2015,12,6,Sun,265.64,Face Cream,Beauty & Health
+14/12/2015,57,1848,2.29,2015,12,0,Mon,130.53,Wiper Blades,Automotive
+15/12/2015,167,1681,2.29,2015,12,1,Tue,382.43,Women Jeans,Clothing
+16/12/2015,154,1527,2.29,2015,12,2,Wed,352.66,Novel Book,Books
+17/12/2015,139,1964,1.39,2015,12,3,Thu,193.21,Lego Set,Toys
+18/12/2015,192,1772,1.39,2015,12,4,Fri,266.88,iPhone 14,Electronics
+19/12/2015,295,2533,1.39,2015,12,5,Sat,410.05,Sony Headphones,Electronics
+20/12/2015,311,2222,1.39,2015,12,6,Sun,432.29,Organic Milk,Groceries
+21/12/2015,251,1971,1.39,2015,12,0,Mon,348.89,Organic Milk,Groceries
+22/12/2015,377,1594,1.39,2015,12,1,Tue,524.03,Wiper Blades,Automotive
+23/12/2015,410,1184,1.39,2015,12,2,Wed,569.9,Yoga Mat,Sports
+24/12/2015,161,1023,1.39,2015,12,3,Thu,223.79,Baby Diapers,Groceries
+25/12/2015,0,1023,1.39,2015,12,4,Fri,0,Garden Shovel,Home & Garden
+26/12/2015,212,811,1.39,2015,12,5,Sat,294.68,Baby Diapers,Groceries
+27/12/2015,106,705,1.39,2015,12,6,Sun,147.34,HP Laptop,Electronics
+28/12/2015,100,604,1.39,2015,12,0,Mon,139,Wall Paint,Home & Garden
+29/12/2015,9,595,1.39,2015,12,1,Tue,12.51,Women Jeans,Clothing
+30/12/2015,0,595,1.39,2015,12,2,Wed,0,Face Cream,Beauty & Health
+31/12/2015,0,595,1.39,2015,12,3,Thu,0,Wall Paint,Home & Garden
+01/01/2016,0,595,1.39,2016,1,4,Fri,0,Garden Shovel,Home & Garden
+02/01/2016,3,592,1.39,2016,1,5,Sat,4.17,Car Oil,Automotive
+03/01/2016,0,592,2.29,2016,1,6,Sun,0,Men T-Shirt,Clothing
+04/01/2016,0,592,1.46,2016,1,0,Mon,0,Face Cream,Beauty & Health
+05/01/2016,3,589,1.46,2016,1,1,Tue,4.38,Basketball,Sports
+06/01/2016,3,586,1.46,2016,1,2,Wed,4.38,Shampoo,Beauty & Health
+07/01/2016,0,586,1.46,2016,1,3,Thu,0,Wiper Blades,Automotive
+08/01/2016,2,584,1.46,2016,1,4,Fri,2.92,HP Laptop,Electronics
+10/01/2016,3,581,1.46,2016,1,6,Sun,4.38,Garden Shovel,Home & Garden
+11/01/2016,0,581,1.46,2016,1,0,Mon,0,Novel Book,Books
+12/01/2016,103,478,1.46,2016,1,1,Tue,150.38,Baby Diapers,Groceries
+13/01/2016,164,314,1.46,2016,1,2,Wed,239.44,Face Cream,Beauty & Health
+14/01/2016,118,196,1.46,2016,1,3,Thu,172.28,Garden Shovel,Home & Garden
+15/01/2016,65,131,1.46,2016,1,4,Fri,94.9,Toy Car,Toys
+16/01/2016,24,107,1.46,2016,1,5,Sat,35.04,Shampoo,Beauty & Health
+18/01/2016,1,106,1.46,2016,1,0,Mon,1.46,Notebook,Office Supplies
+19/01/2016,0,106,1.46,2016,1,1,Tue,0,Garden Shovel,Home & Garden
+20/01/2016,1,105,1.46,2016,1,2,Wed,1.46,Yoga Mat,Sports
+21/01/2016,60,3213,1.46,2016,1,3,Thu,87.6,Car Oil,Automotive
+22/01/2016,103,3110,1.35,2016,1,4,Fri,139.05,iPhone 14,Electronics
+23/01/2016,263,2847,1.39,2016,1,5,Sat,365.57,HP Laptop,Electronics
+24/01/2016,189,2658,1.39,2016,1,6,Sun,262.71,Face Cream,Beauty & Health
+25/01/2016,197,2461,1.39,2016,1,0,Mon,273.83,Face Cream,Beauty & Health
+26/01/2016,105,2356,1.46,2016,1,1,Tue,153.3,Sony Headphones,Electronics
+27/01/2016,129,2227,1.46,2016,1,2,Wed,188.34,Novel Book,Books
+28/01/2016,144,2083,1.46,2016,1,3,Thu,210.24,Sony Headphones,Electronics
+29/01/2016,173,1910,1.79,2016,1,4,Fri,309.67,Basketball,Sports
+30/01/2016,293,1617,1.79,2016,1,5,Sat,524.47,Face Cream,Beauty & Health
+31/01/2016,219,1398,1.79,2016,1,6,Sun,392.01,Wiper Blades,Automotive
+01/02/2016,131,1267,1.79,2016,2,0,Mon,234.49,Shampoo,Beauty & Health
+02/02/2016,184,1083,1.79,2016,2,1,Tue,329.36,Yoga Mat,Sports
+03/02/2016,266,817,1.79,2016,2,2,Wed,476.14,Face Cream,Beauty & Health
+04/02/2016,98,815,2.18,2016,2,3,Thu,213.64,Car Oil,Automotive
+05/02/2016,67,1420,2.29,2016,2,4,Fri,153.43,Women Jeans,Clothing
+06/02/2016,85,1335,2.29,2016,2,5,Sat,194.65,Lego Set,Toys
+07/02/2016,78,1257,2.29,2016,2,6,Sun,178.62,Yoga Mat,Sports
+08/02/2016,71,1185,2.19,2016,2,0,Mon,155.49,Wiper Blades,Automotive
+09/02/2016,113,1072,2.19,2016,2,1,Tue,247.47,Women Jeans,Clothing
+10/02/2016,138,1894,2.19,2016,2,2,Wed,302.22,Lego Set,Toys
+11/02/2016,98,1796,2.19,2016,2,3,Thu,214.62,Baby Diapers,Groceries
+12/02/2016,96,1700,2.19,2016,2,4,Fri,210.24,Novel Book,Books
+13/02/2016,190,1510,2.19,2016,2,5,Sat,416.1,Notebook,Office Supplies
+14/02/2016,105,1510,2.19,2016,2,6,Sun,229.95,Novel Book,Books
+15/02/2016,25,1510,2.19,2016,2,0,Mon,54.75,Toy Car,Toys
+16/02/2016,47,1909,2.19,2016,2,1,Tue,102.93,Lego Set,Toys
+17/02/2016,63,1845,2.19,2016,2,2,Wed,137.97,Lego Set,Toys
+18/02/2016,39,1806,2.19,2016,2,3,Thu,85.41,Baby Diapers,Groceries
+19/02/2016,35,1771,2.19,2016,2,4,Fri,76.65,Basketball,Sports
+20/02/2016,77,1982,2.19,2016,2,5,Sat,168.63,Notebook,Office Supplies
+21/02/2016,60,1922,2.19,2016,2,6,Sun,131.4,Women Jeans,Clothing
+22/02/2016,52,1870,2.19,2016,2,0,Mon,113.88,Wiper Blades,Automotive
+23/02/2016,51,1819,2.19,2016,2,1,Tue,111.69,iPhone 14,Electronics
+24/02/2016,37,1782,2.19,2016,2,2,Wed,81.03,iPhone 14,Electronics
+25/02/2016,42,1740,2.19,2016,2,3,Thu,91.98,Wall Paint,Home & Garden
+26/02/2016,89,1651,2.19,2016,2,4,Fri,194.91,Samsung Galaxy S22,Electronics
+27/02/2016,217,1367,2.19,2016,2,5,Sat,475.23,HP Laptop,Electronics
+28/02/2016,197,1170,2.19,2016,2,6,Sun,431.43,Novel Book,Books
+29/02/2016,81,1089,2.19,2016,2,0,Mon,177.39,HP Laptop,Electronics
+01/03/2016,58,1607,2.19,2016,3,1,Tue,127.02,Garden Shovel,Home & Garden
+02/03/2016,120,1487,2.19,2016,3,2,Wed,262.8,HP Laptop,Electronics
+03/03/2016,64,1423,2.19,2016,3,3,Thu,140.16,iPhone 14,Electronics
+04/03/2016,64,1743,2.59,2016,3,4,Fri,165.76,Baby Diapers,Groceries
+05/03/2016,76,1667,2.59,2016,3,5,Sat,196.84,Notebook,Office Supplies
+06/03/2016,86,1581,2.59,2016,3,6,Sun,222.74,Toy Car,Toys
+07/03/2016,98,1867,2.59,2016,3,0,Mon,253.82,Sony Headphones,Electronics
+08/03/2016,53,1814,2.59,2016,3,1,Tue,137.27,Organic Milk,Groceries
+09/03/2016,38,1774,2.59,2016,3,2,Wed,98.42,Car Oil,Automotive
+10/03/2016,46,1728,2.19,2016,3,3,Thu,100.74,HP Laptop,Electronics
+11/03/2016,45,1779,2.19,2016,3,4,Fri,98.55,Notebook,Office Supplies
+12/03/2016,67,1712,2.19,2016,3,5,Sat,146.73,Wiper Blades,Automotive
+13/03/2016,52,1660,2.19,2016,3,6,Sun,113.88,Garden Shovel,Home & Garden
+14/03/2016,24,1825,2.19,2016,3,0,Mon,52.56,Face Cream,Beauty & Health
+15/03/2016,51,1774,2.19,2016,3,1,Tue,111.69,Notebook,Office Supplies
+16/03/2016,127,1647,2.19,2016,3,2,Wed,278.13,Basketball,Sports
+17/03/2016,75,1572,2.19,2016,3,3,Thu,164.25,Sony Headphones,Electronics
+18/03/2016,62,1510,2.19,2016,3,4,Fri,135.78,Yoga Mat,Sports
+19/03/2016,128,1478,1.99,2016,3,5,Sat,254.72,HP Laptop,Electronics
+20/03/2016,138,1340,1.99,2016,3,6,Sun,274.62,Men T-Shirt,Clothing
+21/03/2016,74,1554,1.99,2016,3,0,Mon,147.26,Novel Book,Books
+22/03/2016,73,1480,2.59,2016,3,1,Tue,189.07,Baby Diapers,Groceries
+23/03/2016,100,1380,2.59,2016,3,2,Wed,259,Basketball,Sports
+24/03/2016,71,1501,2.59,2016,3,3,Thu,183.89,Face Cream,Beauty & Health
+25/03/2016,99,1402,2.59,2016,3,4,Fri,256.41,Basketball,Sports
+26/03/2016,102,1396,2.59,2016,3,5,Sat,264.18,Baby Diapers,Groceries
+27/03/2016,57,1339,2.59,2016,3,6,Sun,147.63,Toy Car,Toys
+28/03/2016,23,1507,2.59,2016,3,0,Mon,59.57,HP Laptop,Electronics
+29/03/2016,35,1760,2.59,2016,3,1,Tue,90.65,Garden Shovel,Home & Garden
+30/03/2016,59,1701,2.59,2016,3,2,Wed,152.81,Samsung Galaxy S22,Electronics
+31/03/2016,41,1660,2.59,2016,3,3,Thu,106.19,Wall Paint,Home & Garden
+01/04/2016,68,1592,2.59,2016,4,4,Fri,176.12,Wall Paint,Home & Garden
+02/04/2016,84,1508,2.59,2016,4,5,Sat,217.56,HP Laptop,Electronics
+03/04/2016,42,1466,2.59,2016,4,6,Sun,108.78,Notebook,Office Supplies
+04/04/2016,95,1659,2.59,2016,4,0,Mon,246.05,Baby Diapers,Groceries
+05/04/2016,85,1574,2.59,2016,4,1,Tue,220.15,iPhone 14,Electronics
+06/04/2016,102,1472,2.59,2016,4,2,Wed,264.18,Shampoo,Beauty & Health
+07/04/2016,111,1457,2.59,2016,4,3,Thu,287.49,Women Jeans,Clothing
+08/04/2016,113,1344,2.59,2016,4,4,Fri,292.67,Women Jeans,Clothing
+09/04/2016,208,1136,2.59,2016,4,5,Sat,538.72,Wall Paint,Home & Garden
+10/04/2016,148,988,2.59,2016,4,6,Sun,383.32,Organic Milk,Groceries
+11/04/2016,123,2017,2.59,2016,4,0,Mon,318.57,Car Oil,Automotive
+12/04/2016,62,1955,2.59,2016,4,1,Tue,160.58,Men T-Shirt,Clothing
+13/04/2016,129,1825,2.59,2016,4,2,Wed,334.11,Notebook,Office Supplies
+14/04/2016,102,1723,2.59,2016,4,3,Thu,264.18,Men T-Shirt,Clothing
+15/04/2016,110,3917,2.59,2016,4,4,Fri,284.9,Lego Set,Toys
+16/04/2016,202,3715,2.59,2016,4,5,Sat,523.18,iPhone 14,Electronics
+17/04/2016,144,3571,2.59,2016,4,6,Sun,372.96,Lego Set,Toys
+18/04/2016,84,3487,2.59,2016,4,0,Mon,217.56,Men T-Shirt,Clothing
+19/04/2016,127,3360,1.89,2016,4,1,Tue,240.03,Wall Paint,Home & Garden
+20/04/2016,181,3179,1.89,2016,4,2,Wed,342.09,Baby Diapers,Groceries
+21/04/2016,268,2911,1.89,2016,4,3,Thu,506.52,Toy Car,Toys
+22/04/2016,278,2636,1.89,2016,4,4,Fri,525.42,Wall Paint,Home & Garden
+23/04/2016,234,2402,1.89,2016,4,5,Sat,442.26,iPhone 14,Electronics
+24/04/2016,133,2269,1.89,2016,4,6,Sun,251.37,Garden Shovel,Home & Garden
+25/04/2016,91,2178,1.89,2016,4,0,Mon,171.99,Yoga Mat,Sports
+26/04/2016,83,2095,2.59,2016,4,1,Tue,214.97,Samsung Galaxy S22,Electronics
+27/04/2016,139,1956,2.59,2016,4,2,Wed,360.01,Wiper Blades,Automotive
+28/04/2016,113,1843,2.59,2016,4,3,Thu,292.67,Baby Diapers,Groceries
+29/04/2016,141,1702,2.59,2016,4,4,Fri,365.19,Wall Paint,Home & Garden
+30/04/2016,228,1474,2.59,2016,4,5,Sat,590.52,Notebook,Office Supplies
+01/05/2016,163,1311,2.59,2016,5,6,Sun,422.17,Sony Headphones,Electronics
+02/05/2016,0,1605,2.59,2016,5,0,Mon,0,Baby Diapers,Groceries
+03/05/2016,125,1768,2.57,2016,5,1,Tue,321.25,Garden Shovel,Home & Garden
+04/05/2016,180,1876,2.59,2016,5,2,Wed,466.2,Notebook,Office Supplies
+05/05/2016,222,1846,1.88,2016,5,3,Thu,417.36,Wall Paint,Home & Garden
+06/05/2016,243,1602,1.89,2016,5,4,Fri,459.27,Women Jeans,Clothing
+07/05/2016,408,1196,1.89,2016,5,5,Sat,771.12,Men T-Shirt,Clothing
+08/05/2016,181,1014,1.89,2016,5,6,Sun,342.09,iPhone 14,Electronics
+09/05/2016,176,838,1.88,2016,5,0,Mon,330.88,Wall Paint,Home & Garden
+10/05/2016,178,660,1.89,2016,5,1,Tue,336.42,Garden Shovel,Home & Garden
+11/05/2016,310,348,1.38,2016,5,2,Wed,427.8,HP Laptop,Electronics
+12/05/2016,134,213,1.89,2016,5,3,Thu,253.26,Notebook,Office Supplies
+13/05/2016,132,81,1.89,2016,5,4,Fri,249.48,HP Laptop,Electronics
+14/05/2016,1,80,1.89,2016,5,5,Sat,1.89,Novel Book,Books
+16/05/2016,0,80,2.59,2016,5,0,Mon,0,Samsung Galaxy S22,Electronics
+17/05/2016,0,2383,2.59,2016,5,1,Tue,0,Samsung Galaxy S22,Electronics
+18/05/2016,110,2262,2.59,2016,5,2,Wed,284.9,Wall Paint,Home & Garden
+19/05/2016,81,2181,2.59,2016,5,3,Thu,209.79,Women Jeans,Clothing
+20/05/2016,112,2069,2.59,2016,5,4,Fri,290.08,Lego Set,Toys
+21/05/2016,186,2069,2.59,2016,5,5,Sat,481.74,Basketball,Sports
+22/05/2016,113,1770,2.59,2016,5,6,Sun,292.67,Face Cream,Beauty & Health
+23/05/2016,86,1684,2.59,2016,5,0,Mon,222.74,Baby Diapers,Groceries
+24/05/2016,59,1817,2.59,2016,5,1,Tue,152.81,Car Oil,Automotive
+25/05/2016,94,5946,2.59,2016,5,2,Wed,243.46,Novel Book,Books
+26/05/2016,167,5779,2.59,2016,5,3,Thu,432.53,Toy Car,Toys
+27/05/2016,244,5535,2.59,2016,5,4,Fri,631.96,Shampoo,Beauty & Health
+28/05/2016,261,5273,2.59,2016,5,5,Sat,675.99,Men T-Shirt,Clothing
+29/05/2016,187,5085,2.59,2016,5,6,Sun,484.33,Men T-Shirt,Clothing
+30/05/2016,115,4970,2.59,2016,5,0,Mon,297.85,Lego Set,Toys
+31/05/2016,139,4831,2.59,2016,5,1,Tue,360.01,Lego Set,Toys
+01/06/2016,273,4558,2.59,2016,6,2,Wed,707.07,Baby Diapers,Groceries
+02/06/2016,235,4323,2.59,2016,6,3,Thu,608.65,Yoga Mat,Sports
+03/06/2016,172,4151,2.59,2016,6,4,Fri,445.48,Baby Diapers,Groceries
+04/06/2016,323,3828,2.59,2016,6,5,Sat,836.57,Yoga Mat,Sports
+05/06/2016,336,3492,2.59,2016,6,6,Sun,870.24,Sony Headphones,Electronics
+06/06/2016,127,3365,2.59,2016,6,0,Mon,328.93,Car Oil,Automotive
+07/06/2016,137,3228,2.59,2016,6,1,Tue,354.83,Lego Set,Toys
+08/06/2016,249,2979,2.59,2016,6,2,Wed,644.91,Yoga Mat,Sports
+09/06/2016,201,2778,2.59,2016,6,3,Thu,520.59,Sony Headphones,Electronics
+10/06/2016,271,2507,1.81,2016,6,4,Fri,490.51,Women Jeans,Clothing
+11/06/2016,512,2187,1.65,2016,6,5,Sat,844.8,Wall Paint,Home & Garden
+12/06/2016,317,1870,1.66,2016,6,6,Sun,526.22,Yoga Mat,Sports
+13/06/2016,224,1646,1.66,2016,6,0,Mon,371.84,Women Jeans,Clothing
+14/06/2016,239,1407,1.63,2016,6,1,Tue,389.57,Shampoo,Beauty & Health
+15/06/2016,377,1182,1.63,2016,6,2,Wed,614.51,Car Oil,Automotive
+16/06/2016,239,1423,1.69,2016,6,3,Thu,403.91,Sony Headphones,Electronics
+17/06/2016,243,1756,1.66,2016,6,4,Fri,403.38,Organic Milk,Groceries
+18/06/2016,438,1318,1.66,2016,6,5,Sat,727.08,Organic Milk,Groceries
+19/06/2016,334,985,1.68,2016,6,6,Sun,561.12,Wiper Blades,Automotive
+20/06/2016,149,836,2.59,2016,6,0,Mon,385.91,Yoga Mat,Sports
+21/06/2016,32,803,2.59,2016,6,1,Tue,82.88,HP Laptop,Electronics
+22/06/2016,39,2204,2.59,2016,6,2,Wed,101.01,Car Oil,Automotive
+23/06/2016,42,2738,2.59,2016,6,3,Thu,108.78,Sony Headphones,Electronics
+24/06/2016,64,2674,2.39,2016,6,4,Fri,152.96,Shampoo,Beauty & Health
+25/06/2016,170,2504,2.39,2016,6,5,Sat,406.3,Organic Milk,Groceries
+26/06/2016,132,2372,2.39,2016,6,6,Sun,315.48,Basketball,Sports
+27/06/2016,123,2249,2.39,2016,6,0,Mon,293.97,Shampoo,Beauty & Health
+28/06/2016,78,2171,2.39,2016,6,1,Tue,186.42,Sony Headphones,Electronics
+29/06/2016,130,2041,2.39,2016,6,2,Wed,310.7,Basketball,Sports
+30/06/2016,141,1900,2.39,2016,6,3,Thu,336.99,Toy Car,Toys
+01/07/2016,247,1653,2.39,2016,7,4,Fri,590.33,Face Cream,Beauty & Health
+02/07/2016,322,1331,2.39,2016,7,5,Sat,769.58,Shampoo,Beauty & Health
+03/07/2016,196,1135,2.39,2016,7,6,Sun,468.44,Baby Diapers,Groceries
+04/07/2016,172,963,2.39,2016,7,0,Mon,411.08,Yoga Mat,Sports
+05/07/2016,218,1413,2.39,2016,7,1,Tue,521.02,Baby Diapers,Groceries
+06/07/2016,216,1965,2.39,2016,7,2,Wed,516.24,Women Jeans,Clothing
+07/07/2016,179,1882,2.39,2016,7,3,Thu,427.81,Samsung Galaxy S22,Electronics
+08/07/2016,32,2234,2.39,2016,7,4,Fri,76.48,Toy Car,Toys
+09/07/2016,95,2139,2.39,2016,7,5,Sat,227.05,Novel Book,Books
+10/07/2016,78,2061,2.39,2016,7,6,Sun,186.42,Men T-Shirt,Clothing
+11/07/2016,122,1939,2.39,2016,7,0,Mon,291.58,Wall Paint,Home & Garden
+12/07/2016,164,1967,1.89,2016,7,1,Tue,309.96,iPhone 14,Electronics
+13/07/2016,288,1670,1.89,2016,7,2,Wed,544.32,Lego Set,Toys
+14/07/2016,138,1532,1.89,2016,7,3,Thu,260.82,Garden Shovel,Home & Garden
+15/07/2016,189,1343,1.89,2016,7,4,Fri,357.21,Basketball,Sports
+16/07/2016,321,1022,1.89,2016,7,5,Sat,606.69,Face Cream,Beauty & Health
+17/07/2016,209,813,1.89,2016,7,6,Sun,395.01,Organic Milk,Groceries
+18/07/2016,161,1420,1.89,2016,7,0,Mon,304.29,Novel Book,Books
+19/07/2016,157,1359,1.89,2016,7,1,Tue,296.73,Notebook,Office Supplies
+20/07/2016,283,1075,1.89,2016,7,2,Wed,534.87,Wall Paint,Home & Garden
+21/07/2016,60,1015,2.39,2016,7,3,Thu,143.4,Novel Book,Books
+22/07/2016,98,917,2.39,2016,7,4,Fri,234.22,Face Cream,Beauty & Health
+23/07/2016,133,1550,2.39,2016,7,5,Sat,317.87,Basketball,Sports
+24/07/2016,130,1420,2.39,2016,7,6,Sun,310.7,Face Cream,Beauty & Health
+25/07/2016,62,1358,2.39,2016,7,0,Mon,148.18,Toy Car,Toys
+26/07/2016,97,2893,2.39,2016,7,1,Tue,231.83,HP Laptop,Electronics
+27/07/2016,98,3179,2.39,2016,7,2,Wed,234.22,Garden Shovel,Home & Garden
+28/07/2016,108,3071,2.39,2016,7,3,Thu,258.12,Women Jeans,Clothing
+29/07/2016,128,4095,2.39,2016,7,4,Fri,305.92,Yoga Mat,Sports
+30/07/2016,270,3825,2.39,2016,7,5,Sat,645.3,Men T-Shirt,Clothing
+31/07/2016,183,3642,2.39,2016,7,6,Sun,437.37,Garden Shovel,Home & Garden
